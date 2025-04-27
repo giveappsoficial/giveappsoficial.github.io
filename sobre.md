@@ -22,4 +22,4 @@ permalink: /sobre/
 
 ### Entre em contato comigo
 
-[srockcontato@gmail.com](mailto:srockcontato@gmail.com)
+[giveappscontato@gmail.com](mailto:giveappscontato@gmail.com)
