@@ -57,4 +57,4 @@ Os dados coletados pelos serviços de terceiros (como Google Play Games e Google
 <h2>Contate-nos</h2>
 <p>Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco:</p>
 
-<p>• Por e-mail: srockcontato@gmail.com</p>
+<p>• Por e-mail: giveappscontato@gmail.com</p>
