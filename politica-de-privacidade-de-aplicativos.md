@@ -6,14 +6,16 @@ redirect_from:
   - /politica-de-privacidade-de-aplicativos.html
 ---
 
-<h5>Última atualização: 30/05/2024</h5>
+<h5>Última atualização: 27/04/2025</h5>
 
 <p>Esta Política de Privacidade descreve nossas políticas e procedimentos sobre a coleta, uso e divulgação de suas informações quando você usa nossos aplicativos e informa sobre seus direitos de privacidade e como a lei protege você.</p>
 
 <p>Esta Política de Privacidade se aplica aos seguintes aplicativos:</p>
 
 <p><b>• <a href="https://play.google.com/store/apps/details?id=com.studiorock.game" target="_blank">Desafio Estelar</a></b></p>
-<p><b>• Epidemia Zumbi: Paciente Zero</b></p>
+<p><b>• <a href="https://play.google.com/store/apps/details?id=com.rochagames.patientzero" target="_blank">Apocalipse Zumbi Paciente Zero</a></b></p>
+<p><b>• <a href="https://play.google.com/store/apps/details?id=com.giveapps.minhasdespesas" target="_blank">Minhas Despesas</a></b></p>
+
 <h2>Coleta e Uso de Informações</h2>
 <h3>Informações Coletadas</h3>
 
