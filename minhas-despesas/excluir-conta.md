@@ -27,7 +27,7 @@ permalink: minhas-despesas/excluir-conta/
 
 <p>Após a confirmação, todos os seus dados serão permanentemente removidos do nosso banco de dados (Firestore), e sua conta será excluída do Firebase Authentication.</p>
 
-<img src="/images/excluir-conta.png" alt="Opção excluir conta" style="max-width: 100%; height: auto;">
+<img src="/images/excluir_conta.png" alt="Opção excluir conta" style="max-width: 100%; height: auto;">
 
 <h3>Dúvidas ou problemas?</h3>
 <p>Se você encontrar dificuldades durante o processo ou não conseguir acessar sua conta, entre em contato conosco:</p>
