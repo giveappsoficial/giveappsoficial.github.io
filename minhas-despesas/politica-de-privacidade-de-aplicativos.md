@@ -42,7 +42,7 @@ redirect_from:
 <h3>Exclusão</h3>
 <p>Você pode solicitar a exclusão de sua conta e de todos os seus dados armazenados. Uma página com instruções detalhadas será disponibilizada em breve. Após a solicitação, seus dados serão permanentemente excluídos do Firestore Database.</p>
 
-<p><strong>Link para exclusão da conta (em breve):</strong> <em>minhas-despesas/excluir-conta</em></p>
+<p><strong>Link para exclusão da conta:</strong> <a href="https://giveappsoficial.github.io/minhas-despesas/excluir-conta/">Como Excluir Minha Conta</a></p>
 
 <h2>Compartilhamento de Informações</h2>
 <p>Não compartilhamos seus dados com terceiros. Todas as informações ficam armazenadas apenas nos serviços fornecidos pelo Firebase, operado pelo Google, conforme a <a href="https://policies.google.com/privacy" target="_blank">Política de Privacidade do Google</a>.</p>
