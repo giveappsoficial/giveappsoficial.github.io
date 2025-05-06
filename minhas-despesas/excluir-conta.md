@@ -4,8 +4,6 @@ title: Como Excluir Minha Conta – Minhas Despesas
 permalink: minhas-despesas/excluir-conta/
 ---
 
-<h5>Última atualização: 06/05/2025</h5>
-
 <h2>Como excluir sua conta do aplicativo Minhas Despesas</h2>
 
 <p>Abaixo você encontra o passo a passo para excluir sua conta e todos os dados associados a ela no aplicativo <strong>Minhas Despesas</strong>. Essa ação é permanente e não poderá ser desfeita.</p>
