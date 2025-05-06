@@ -1,60 +1,63 @@
 ---
 layout: page
-title: Política de Privacidade de Aplicativos
-permalink: minhas-despesas/politica-de-privacidade-de-aplicativos/
+title: Política de Privacidade – Minhas Despesas
+permalink: minhas-despesas/politica-de-privacidade/
 redirect_from:
   - minhas-despesas/politica-de-privacidade-de-aplicativos.html
 ---
 
-<h5>Última atualização: 27/04/2025</h5>
+<h5>Última atualização: 06/05/2025</h5>
 
-<p>Esta Política de Privacidade descreve nossas políticas e procedimentos sobre a coleta, uso e divulgação de suas informações quando você usa nossos aplicativos e informa sobre seus direitos de privacidade e como a lei protege você.</p>
+<p>Esta Política de Privacidade descreve como coletamos, usamos e protegemos seus dados pessoais ao utilizar o aplicativo <strong>Minhas Despesas</strong>. Também explica seus direitos relacionados à privacidade e como você pode exercê-los.</p>
 
-<p>Esta Política de Privacidade se aplica aos seguintes aplicativos:</p>
-
-<p><b>• <a href="https://play.google.com/store/apps/details?id=com.studiorock.game" target="_blank">Desafio Estelar</a></b></p>
-<p><b>• <a href="https://play.google.com/store/apps/details?id=com.rochagames.patientzero" target="_blank">Apocalipse Zumbi Paciente Zero</a></b></p>
-<p><b>• <a href="https://play.google.com/store/apps/details?id=com.giveapps.minhasdespesas" target="_blank">Minhas Despesas</a></b></p>
+<h2>Aplicativo Abrangido</h2>
+<p>Esta política se aplica exclusivamente ao aplicativo:</p>
+<p><strong>• <a href="https://play.google.com/store/apps/details?id=com.giveapps.minhasdespesas" target="_blank">Minhas Despesas</a></strong></p>
 
 <h2>Coleta e Uso de Informações</h2>
 <h3>Informações Coletadas</h3>
+<p>O aplicativo Minhas Despesas utiliza o <strong>Firebase Authentication</strong> para permitir que os usuários criem contas ou utilizem o app de forma anônima. É possível fazer login com:</p>
+<ul>
+  <li>Conta Google</li>
+  <li>E-mail e senha</li>
+  <li>Como usuário anônimo (sem fornecer informações pessoais diretamente)</li>
+</ul>
 
-<p>Não coletamos diretamente informações pessoais ou dados dos usuários em nossos aplicativos. No entanto, utilizamos serviços de terceiros que podem coletar informações para fornecer seus serviços:</p>
+<p>Ao criar uma conta, o Firebase gera um identificador único (UID) para cada usuário. Esse UID é utilizado para armazenar e gerenciar seus dados no <strong>Firestore Database</strong>, onde são registrados:</p>
+<ul>
+  <li>Despesas e receitas cadastradas</li>
+  <li>Informações sobre status de pagamento</li>
+  <li>Configurações de lembretes e notificações</li>
+</ul>
 
-<p><b>• Google Play Games:</b> Nossos jogos utilizam Google Play Games Services para funcionalidades como conquistas, placares e salvamento em nuvem. O Google Play Games pode coletar informações como identificadores de jogador e dados de desempenho no jogo. Para mais detalhes sobre como o Google Play Games coleta e utiliza informações, consulte a <a href="https://policies.google.com/privacy" target="_blank">Política de Privacidade do Google</a>.</p>
+<p>Essas informações são armazenadas de forma segura e associadas ao seu UID, mesmo se você estiver usando o app como usuário anônimo.</p>
 
-<p><b>• Google AdMob:</b> Usamos Google AdMob para exibir anúncios em nossos jogos. O AdMob pode coletar informações, incluindo identificadores de dispositivos móveis (ID de publicidade), dados de interação com anúncios e outros dados de uso. Para mais detalhes sobre a coleta de dados pelo AdMob, consulte a <a href="https://policies.google.com/privacy" target="_blank">Política de Privacidade do Google</a>.</p>
+<h3>Notificações</h3>
+<p>O aplicativo pode enviar notificações para lembrar sobre pagamentos futuros ou pendentes, com base nos dados cadastrados. Essas notificações são configuradas localmente no aplicativo e não requerem o compartilhamento de dados com terceiros.</p>
 
 <h2>Retenção e Exclusão de Dados</h2>
-<h3>Retenção de Dados</h3>
+<h3>Retenção</h3>
+<p>Os dados dos usuários são armazenados no Firestore enquanto a conta estiver ativa ou enquanto o usuário continuar utilizando o app. Dados vinculados a contas anônimas também são armazenados até que sejam removidos manualmente ou a conta seja excluída.</p>
 
-<p>Não retemos diretamente qualquer dado pessoal dos usuários.
-Os dados coletados pelos serviços de terceiros (como Google Play Games e Google AdMob) são retidos de acordo com as políticas de retenção de dados dessas plataformas. Recomendamos revisar as políticas de privacidade dos respectivos serviços para entender como seus dados são mantidos e protegidos.</p>
+<h3>Exclusão</h3>
+<p>Você pode solicitar a exclusão de sua conta e de todos os seus dados armazenados. Uma página com instruções detalhadas será disponibilizada em breve. Após a solicitação, seus dados serão permanentemente excluídos do Firestore Database.</p>
 
-<h3>Exclusão de Dados</h3>
-
-<p>Como não coletamos diretamente dados pessoais, não realizamos a exclusão direta desses dados.</p>
-<p>Para solicitar a exclusão dos dados coletados pelos serviços de terceiros, você deve seguir os procedimentos estabelecidos nas políticas de privacidade do Google Play Games e Google AdMob. Geralmente, isso pode envolver a exclusão da conta ou a solicitação direta aos serviços.</p>
-
+<p><strong>Link para exclusão da conta (em breve):</strong> <em>minhas-despesas/excluir-conta</em></p>
 
 <h2>Compartilhamento de Informações</h2>
-<p>Como mencionado, não coletamos diretamente dados dos usuários. As informações coletadas pelos serviços de terceiros (Google Play Games e AdMob) são gerenciadas por esses serviços conforme suas respectivas políticas de privacidade.</p>
+<p>Não compartilhamos seus dados com terceiros. Todas as informações ficam armazenadas apenas nos serviços fornecidos pelo Firebase, operado pelo Google, conforme a <a href="https://policies.google.com/privacy" target="_blank">Política de Privacidade do Google</a>.</p>
 
 <h2>Segurança das Informações</h2>
-<p>A segurança de suas informações pessoais é importante para nós, e os serviços de terceiros que utilizamos (Google Play Games e AdMob) implementam medidas de segurança para proteger suas informações. Para detalhes específicos sobre essas medidas de segurança, consulte as políticas de privacidade do Google.</p>
+<p>Utilizamos as ferramentas e práticas de segurança do Firebase e Firestore para proteger seus dados contra acesso não autorizado, alteração ou destruição.</p>
 
-<h2>Links para Outros Sites</h2>
-<p>Nossos serviços podem conter links para outros sites que não são operados por nós. Se você clicar em um link de terceiros, será direcionado ao site desse terceiro. Recomendamos fortemente que você reveja a Política de Privacidade de cada site que visita. Não temos controle e não assumimos responsabilidade pelo conteúdo, políticas de privacidade ou práticas de quaisquer sites ou serviços de terceiros.</p>
+<h2>Privacidade de Crianças</h2>
+<p>O aplicativo Minhas Despesas não é direcionado a crianças. Não coletamos intencionalmente dados pessoais de menores de 13 anos. Caso tomemos conhecimento de que coletamos dados pessoais de uma criança sem o consentimento dos pais, tomaremos as medidas necessárias para removê-los.</p>
 
-<h2>Privacidade das Crianças</h2>
-<p>Alguns de nossos aplicativos são destinados a todas as idades, a partir de 6 anos. Não coletamos intencionalmente informações pessoais de crianças. Os serviços de terceiros que utilizamos (Google Play Games e AdMob) podem coletar dados conforme suas próprias políticas de privacidade.</p>
+<h2>Alterações a Esta Política</h2>
+<p>Podemos atualizar esta Política de Privacidade periodicamente. Quaisquer mudanças entrarão em vigor quando publicadas nesta página, com a data de atualização ajustada no topo. Recomendamos que você revise esta página regularmente.</p>
 
-<p>Se você é pai/mãe ou responsável e está ciente de que seu filho nos forneceu dados pessoais através desses serviços de terceiros, entre em contato conosco. Se tomarmos conhecimento de que coletamos dados pessoais de crianças sem verificação do consentimento dos pais, tomaremos medidas para remover essas informações de nossos servidores.</p>
-
-<h2>Alterações a Esta Política de Privacidade</h2>
-<p>Podemos atualizar nossa Política de Privacidade de tempos em tempos. Notificaremos você de quaisquer mudanças publicando a nova Política de Privacidade nesta página e atualizando a "Data de Atualização" no topo desta Política de Privacidade. Recomenda-se revisar esta Política de Privacidade periodicamente para quaisquer mudanças. Mudanças a esta Política de Privacidade são efetivas quando postadas nesta página.</p>
-
-<h2>Contate-nos</h2>
-<p>Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco:</p>
-
-<p>• Por e-mail: giveappscontato@gmail.com</p>
+<h2>Contato</h2>
+<p>Se você tiver dúvidas ou solicitações relacionadas à sua privacidade, entre em contato:</p>
+<ul>
+  <li><strong>E-mail:</strong> giveappscontato@gmail.com</li>
+</ul>
