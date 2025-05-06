@@ -51,7 +51,7 @@ redirect_from:
 <p>Utilizamos as ferramentas e práticas de segurança do Firebase e Firestore para proteger seus dados contra acesso não autorizado, alteração ou destruição.</p>
 
 <h2>Privacidade de Crianças</h2>
-<p>O aplicativo Minhas Despesas não é direcionado a crianças. Não coletamos intencionalmente dados pessoais de menores de 13 anos. Caso tomemos conhecimento de que coletamos dados pessoais de uma criança sem o consentimento dos pais, tomaremos as medidas necessárias para removê-los.</p>
+<p>O aplicativo Minhas Despesas é destinado exclusivamente a <strong>usuários maiores de 18 anos</strong>. Não coletamos intencionalmente dados pessoais de menores de idade. Se você for pai, mãe ou responsável e acredita que seu filho menor de 18 anos utilizou o aplicativo e forneceu dados pessoais, entre em contato conosco. Tomaremos as medidas necessárias para remover essas informações de nossos servidores.</p>
 
 <h2>Alterações a Esta Política</h2>
 <p>Podemos atualizar esta Política de Privacidade periodicamente. Quaisquer mudanças entrarão em vigor quando publicadas nesta página, com a data de atualização ajustada no topo. Recomendamos que você revise esta página regularmente.</p>
