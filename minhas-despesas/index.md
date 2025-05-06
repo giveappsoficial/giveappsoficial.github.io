@@ -4,8 +4,6 @@ title: Minhas Despesas
 permalink: minhas-despesas/
 ---
 
-<h1>Minhas Despesas</h1>
-
 <h5>Controle financeiro simples e eficiente</h5>
 
 <p><strong>Minhas Despesas</strong> é um aplicativo criado para ajudar você a organizar suas finanças de forma prática e intuitiva. Registre despesas e receitas, receba notificações de vencimento e acompanhe de perto seus gastos mensais.</p>
