@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Política de Privacidade – Minhas Despesas
-permalink: minhas-despesas/politica-de-privacidade/
+title: Política de Privacidade – Meu Remédio
+permalink: meu-remedio/politica-de-privacidade/
 redirect_from:
-  - minhas-despesas/politica-de-privacidade-de-aplicativos.html
+  - meu-remedio/politica-de-privacidade-de-aplicativos.html
 ---
 
 <h5>Última atualização: 06/05/2025</h5>
