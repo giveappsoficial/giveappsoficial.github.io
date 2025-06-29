@@ -4,9 +4,9 @@ title: Como Excluir Minha Conta – Meu Remédio
 permalink: meu-remedio/excluir-conta/
 ---
 
-<h2>Como excluir sua conta do aplicativo Minhas Despesas</h2>
+<h2>Como excluir sua conta do aplicativo Meu Remédio</h2>
 
-<p>Abaixo você encontra o passo a passo para excluir sua conta e todos os dados associados a ela no aplicativo <strong>Minhas Despesas</strong>. Essa ação é permanente e não poderá ser desfeita.</p>
+<p>Abaixo você encontra o passo a passo para excluir sua conta e todos os dados associados a ela no aplicativo <strong>Meu Remédio</strong>. Essa ação é permanente e não poderá ser desfeita.</p>
 
 <h3>1. Acesse as configurações do perfil</h3>
 <p>Abra o aplicativo e vá até a tela de configurações do perfil, clicando no ícone correspondente.</p>
