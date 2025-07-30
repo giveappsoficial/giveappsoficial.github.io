@@ -4,8 +4,6 @@ title: Sobre
 permalink: /sobre/
 ---
 
-<h1>Sobre</h1>
-
 <p>Olá! Seja bem-vindo ao meu site.</p>
 
 <p>Sou David, desenvolvedor independente de aplicativos, e atualmente conduzo este projeto de forma solo, com dedicação total à criação de soluções úteis, intuitivas e bem desenvolvidas para o dia a dia das pessoas. Com foco na experiência do usuário e na qualidade dos produtos, busco oferecer aplicações que realmente façam a diferença na vida dos usuários.</p>
