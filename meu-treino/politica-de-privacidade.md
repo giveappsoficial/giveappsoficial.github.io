@@ -6,7 +6,7 @@ redirect_from:
   - meu-treino/politica-de-privacidade-de-aplicativos.html
 ---
 
-<h5>Última atualização: 06/05/2025</h5>
+<h5>Última atualização: 13/11/2025</h5>
 
 <p>Esta Política de Privacidade descreve como coletamos, usamos e protegemos seus dados pessoais ao utilizar o aplicativo <strong>Meu Treino</strong>. Também explica seus direitos relacionados à privacidade e como você pode exercê-los.</p>
 
