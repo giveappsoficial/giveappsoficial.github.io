@@ -12,7 +12,7 @@ redirect_from:
 
 <h2>Aplicativo Abrangido</h2>
 <p>Esta política se aplica exclusivamente ao aplicativo:</p>
-<p><strong>• Meu Treino</strong></p>
+<p><strong>• <a href="https://play.google.com/store/apps/details?id=com.giveapps.meutreino" target="_blank">Meu Treino</a>
 
 <h2>Coleta e Uso de Informações</h2>
 
