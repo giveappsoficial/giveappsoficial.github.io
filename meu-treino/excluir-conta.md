@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Como Excluir Minha Conta – Meu Treino
-permalink: meu-remedio/excluir-conta/
+permalink: meu-treino/excluir-conta/
 ---
 
 <h2>Como excluir sua conta do aplicativo Meu Treino</h2>
