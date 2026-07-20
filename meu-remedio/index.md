@@ -35,5 +35,5 @@ permalink: meu-remedio/
 <h2>Suporte</h2>
 <p>Se você tiver dúvidas, sugestões ou precisar de ajuda, entre em contato conosco pelo e-mail:</p>
 <ul>
-  <li><strong>giveappscontato@gmail.com</strong></li>
+  <li><strong>contato@giveapps.com.br</strong></li>
 </ul>
