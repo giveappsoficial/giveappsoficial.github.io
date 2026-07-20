@@ -30,7 +30,7 @@ permalink: minhas-despesas/excluir-conta/
 <h3>Dúvidas ou problemas?</h3>
 <p>Se você encontrar dificuldades durante o processo ou não conseguir acessar sua conta, entre em contato conosco:</p>
 <ul>
-  <li><strong>E-mail de suporte:</strong> giveappscontato@gmail.com</li>
+  <li><strong>E-mail de suporte:</strong> contato@giveapps.com.br/li>
 </ul>
 
 <hr>
