@@ -59,5 +59,5 @@ redirect_from:
 <h2>Contato</h2>
 <p>Se você tiver dúvidas ou solicitações relacionadas à sua privacidade, entre em contato:</p>
 <ul>
-  <li><strong>E-mail:</strong> giveappscontato@gmail.com</li>
+  <li><strong>E-mail:</strong> contato@giveapps.com.br</li>
 </ul>
