@@ -2,8 +2,6 @@
 layout: page
 title: Política de Privacidade – Meu Treino
 permalink: meu-treino/politica-de-privacidade/
-redirect_from:
-  - meu-treino/politica-de-privacidade-de-aplicativos.html
 ---
 
 <h5>Última atualização: 13/11/2025</h5>
@@ -12,7 +10,7 @@ redirect_from:
 
 <h2>Aplicativo Abrangido</h2>
 <p>Esta política se aplica exclusivamente ao aplicativo:</p>
-<p><strong>• <a href="https://play.google.com/store/apps/details?id=com.giveapps.meutreino" target="_blank">Meu Treino</a>
+<p><strong>• <a href="https://play.google.com/store/apps/details?id=com.giveapps.meutreino" target="_blank">Meu Treino</a></strong></p>
 
 <h2>Coleta e Uso de Informações</h2>
 
