@@ -13,14 +13,37 @@
 /* BASE RULES */
 /**************/
 
+:root {
+  --background: #ffffff;
+  --text: #333333;
+  --heading: #222222;
+  --secondary-text: #666666;
+  --card-background: #ffffff;
+  --border: #dddddd;
+  --shadow: rgba(0,0,0,0.08);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #121212;
+    --text: #e5e5e5;
+    --heading: #ffffff;
+    --secondary-text: #aaaaaa;
+    --card-background: #1e1e1e;
+    --border: #333333;
+    --shadow: rgba(0,0,0,0.35);
+    --link-color: #64b5f6;
+  }
+}
+
 html {
   font-size: 100%;
 }
 
 body {
-	background: $white;
+	background: var(--background);
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: var(--text);
 }
 
 .container {
@@ -32,7 +55,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: var(--heading);
   font-weight: bold;
 
   line-height: 1.7;
@@ -69,7 +92,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: var(--link-color, $blue);
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -273,9 +296,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  background-color: var(--card-background);
 }
 
 footer {
@@ -315,7 +338,7 @@ footer {
 
 .subtitle {
   text-align: center;
-  color: #666;
+  color: var(--secondary-text);
   margin-top: -15px;
   margin-bottom: 30px;
 }
@@ -327,10 +350,10 @@ footer {
   align-items: center;
   text-decoration: none;
   color: inherit;
-  background: #ffffff;
+  background: var(--card-background);
   border-radius: 30px;
   padding: 20px;
-  box-shadow: 0 5px 12px rgba(0,0,0,0.08);
+  box-shadow: 0 5px 12px var(--shadow);
   margin-bottom: 25px;
 }
 
