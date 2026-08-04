@@ -28,10 +28,10 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: "@RochaGamesStudio"
+  youtube:
   googleplus: # anything in your profile username that comes after plus.google.com/
   playstore: "7963989597638306610"
-
+  appstore: "david-menezes/id6792018772"
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
