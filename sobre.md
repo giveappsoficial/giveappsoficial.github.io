@@ -21,6 +21,6 @@ permalink: /sobre/
 <h2>Entre em contato</h2>
 <p>Se você tiver dúvidas, sugestões ou quiser conversar sobre parcerias, estou sempre aberto ao diálogo. Entre em contato pelo e-mail:</p>
 
-<p><a href="mailto:giveappscontato@gmail.com">giveappscontato@gmail.com</a></p>
+<p><a href="mailto:contato@giveapps.com.br">contato@giveapps.com.br</a></p>
 
 <p>Obrigado por visitar o site e por apoiar meu trabalho!</p>
