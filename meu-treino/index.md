@@ -31,7 +31,7 @@ permalink: meu-treino/
 
 <div class="app-downloads">
   <a href="https://play.google.com/store/apps/details?id=com.giveapps.meutreino" target="_blank" rel="noopener noreferrer">
-    <img src="https://giveappsoficial.github.io/images/download_on_playstore.svg" alt="Baixar Meu Treino na Play Store">
+    <img src="/images/download_on_playstore.svg" alt="Baixar Meu Treino na Play Store">
   </a>
 </div>
 
