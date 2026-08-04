@@ -29,6 +29,12 @@ permalink: meu-treino/
   <li><strong>Temas claro e escuro:</strong> personalize a aparência do aplicativo conforme sua preferência.</li>
 </ul>
 
+<div class="app-downloads">
+  <a href="https://play.google.com/store/apps/details?id=com.giveapps.meutreino" target="_blank" rel="noopener noreferrer">
+    <img src="https://giveappsoficial.github.io/images/download_on_playstore.svg" alt="Baixar Meu Treino na Play Store">
+  </a>
+</div>
+
 <h2>Links úteis</h2>
 <ul>
   <li><a href="https://play.google.com/store/apps/details?id=com.giveapps.meutreino" target="_blank"><strong>Baixar Meu Treino na Play Store</strong></a></li>
