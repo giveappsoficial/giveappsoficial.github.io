@@ -27,11 +27,11 @@ permalink: minhas-despesas/
 
 <div class="app-downloads">
   <a href="https://play.google.com/store/apps/details?id=com.giveapps.minhasdespesas" target="_blank" rel="noopener noreferrer">
-    <img src="https://giveappsoficial.github.io/images/download_on_playstore.svg" alt="Baixar Minhas Despesas na Play Store">
+    <img src="/images/download_on_playstore.svg" alt="Baixar Minhas Despesas na Play Store">
   </a>
 
   <a href="https://apps.apple.com/us/app/minhas-despesas-finan%C3%A7as/id6792018770" target="_blank" rel="noopener noreferrer">
-    <img src="https://giveappsoficial.github.io/images/download_on_appstore.svg" alt="Baixar Minhas Despesas na App Store">
+    <img src="/images/download_on_appstore.svg" alt="Baixar Minhas Despesas na App Store">
   </a>
 </div>
 
