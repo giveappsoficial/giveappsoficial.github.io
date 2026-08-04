@@ -344,15 +344,14 @@ footer {
   height: auto;
 }
 
+.app-card h3 {
+  text-align: center;
+  margin: 0 0 10px 0;
+}
+
 .app-info {
   width: 80%;
   margin-left: 4%;
-}
-
-.app-info h3 {
-  text-align: center;
-  margin: 0 0 10px 0;
-  transform: translateX(-10%);
 }
 
 .app-info p {
