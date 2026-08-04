@@ -288,12 +288,10 @@ footer {
 .app-downloads {
   display: flex;
   width: 100%;
-  gap: 20px;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
 
   a {
-    flex: 1;
     max-width: 220px;
   }
 
@@ -301,6 +299,16 @@ footer {
     display: block;
     width: 100%;
     height: auto;
+  }
+}
+
+@media (max-width: 500px) {
+  .app-downloads {
+    flex-direction: column;
+
+    a {
+      width: 220px;
+    }
   }
 }
 
