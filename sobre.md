@@ -19,8 +19,6 @@ permalink: /sobre/
 <p>Meu nome é David, tenho 25 anos, e estou finalmente trabalhando com o que sempre sonhei: criar aplicativos. Sou apaixonado por tecnologia, design e soluções criativas, e busco constantemente aprender mais para evoluir como profissional.</p>
 
 <h2>Entre em contato</h2>
-<p>Se você tiver dúvidas, sugestões ou quiser conversar sobre parcerias, estou sempre aberto ao diálogo. Entre em contato pelo e-mail:</p>
-
-<p><a href="mailto:contato@giveapps.com.br">contato@giveapps.com.br</a></p>
+<p>Se você tiver dúvidas, sugestões ou quiser conversar sobre parcerias, estou sempre aberto ao diálogo. Entre em contato pelo e-mail: <a href="mailto:contato@giveapps.com.br">contato@giveapps.com.br</a></p>
 
 <p>Obrigado por visitar o site e por apoiar meu trabalho!</p>
