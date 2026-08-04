@@ -291,7 +291,8 @@ footer {
   justify-content: space-evenly;
   align-items: center;
 
-  a {
+ a {
+    flex: 1;
     max-width: 220px;
   }
 
