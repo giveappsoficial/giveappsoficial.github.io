@@ -33,9 +33,14 @@ permalink: meu-remedio/
   <li><strong>Interface simples e intuitiva:</strong> organize seus medicamentos de forma rápida, prática e sem complicações.</li>
 </ul>
 
+<div class="app-downloads">
+  <a href="https://play.google.com/store/apps/details?id=com.giveapps.meuremedio" target="_blank" rel="noopener noreferrer">
+    <img src="https://giveappsoficial.github.io/images/download_on_playstore.svg" alt="Baixar Meu Remédio na Play Store">
+  </a>
+</div>
+
 <h2>Links úteis</h2>
 <ul>
-  <li><a href="https://play.google.com/store/apps/details?id=com.giveapps.meuremedio" target="_blank"><strong>Baixar Meu Remédio na Play Store</strong></a></li>
   <li><a href="/meu-remedio/politica-de-privacidade/"><strong>Política de Privacidade</strong></a></li>
   <li><a href="/meu-remedio/excluir-conta/"><strong>Excluir Conta</strong></a></li>
 </ul>
