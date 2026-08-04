@@ -306,6 +306,7 @@ footer {
 @media (max-width: 500px) {
   .app-downloads {
     flex-direction: column;
+    gap: 20px;
 
     a {
       width: 220px;
