@@ -303,12 +303,39 @@ footer {
   }
 }
 
+.apps-section h2 {
+  text-align: center;
+}
+
+.apps-section {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.subtitle {
+  text-align: center;
+  color: #666;
+  margin-top: -10px;
+  margin-bottom: 30px;
+}
+
 .app-card {
   display: flex;
   align-items: center;
   text-decoration: none;
   color: inherit;
-  margin-bottom: 25px;
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.app-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
 }
 
 .app-card img {
@@ -344,27 +371,21 @@ footer {
   }
 
   .app-card {
-    flex-direction: column;
-    text-align: center;
+    padding: 25px 20px;
   }
 
   .app-card img {
-    width: 35%;
-    max-width: 150px;
-    margin-bottom: 15px;
-  }
-
-  .app-info {
-    width: 100%;
-    margin-left: 0;
+    width: 45%;
+    max-width: 160px;
   }
 
   .app-info h3 {
-    text-align: center;
+    margin-top: 10px;
+    font-size: 22px;
   }
 
   .app-info p {
-    text-align: justify;
+    line-height: 1.6;
   }
 }
 
