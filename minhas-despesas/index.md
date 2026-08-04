@@ -42,7 +42,4 @@ permalink: minhas-despesas/
 </ul>
 
 <h2>Suporte</h2>
-<p>Se você tiver dúvidas, sugestões ou precisar de ajuda, entre em contato conosco pelo e-mail:</p>
-<ul>
-  <li><strong>contato@giveapps.com.br</strong></li>
-</ul>
+<p>Se você tiver dúvidas, sugestões ou precisar de ajuda, entre em contato conosco pelo e-mail: <a href="mailto:contato@giveapps.com.br">contato@giveapps.com.br</a></p>
