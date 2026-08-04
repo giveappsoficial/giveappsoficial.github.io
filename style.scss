@@ -215,7 +215,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: var(--heading);
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
